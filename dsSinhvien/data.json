@@ -1,0 +1,74 @@
+[
+{
+    "maSV": "20210613",
+    "tenSV": "Nguyen Van A",
+    "tuoi": 19,
+    "gioiTinh": "Nam",
+    "ngaySinh": "20-11-2003",
+    "diemToan": 9,
+    "diemLy": 8,
+    "diemHoa": 9,
+    "diemAnh": 10,
+    "lop": "IT-03"
+},
+{
+    "maSV": "20212913",
+    "tenSV": "Nguyen Van B",
+    "tuoi": 19,
+    "gioiTinh": "Nam",
+    "ngaySinh": "19-02-2003",
+    "diemToan": 10,
+    "diemLy": 5,
+    "diemHoa": 6,
+    "diemAnh": 9,
+    "lop": "IT-02"
+},
+{
+    "maSV": "20212945",
+    "tenSV": "Nguyen Van C",
+    "tuoi": 19,
+    "gioiTinh": "Nam",
+    "ngaySinh": "01-06-2003",
+    "diemToan": 9,
+    "diemLy": 3,
+    "diemHoa": 9,
+    "diemAnh": 10,
+    "lop": "IT-03"
+},
+{
+    "maSV": "20200233",
+    "tenSV": "Nguyen Thi D",
+    "tuoi": 20,
+    "gioiTinh": "Nu",
+    "ngaySinh": "20-01-2002",
+    "diemToan": 9,
+    "diemLy": 10,
+    "diemHoa": 9,
+    "diemAnh": 10,
+    "lop": "IT-03"
+},
+{
+    "maSV": "20215650",
+    "tenSV": "Nguyen Van E",
+    "tuoi": 19,
+    "gioiTinh": "Nam",
+    "ngaySinh": "05-12-2003",
+    "diemToan": 4,
+    "diemLy": 5,
+    "diemHoa": 7,
+    "diemAnh": 4,
+    "lop": "IT-02"
+},
+{
+    "maSV": "20205050",
+    "tenSV": "Nguyen Van F",
+    "tuoi": 20,
+    "gioiTinh": "Nam",
+    "ngaySinh": "17-12-2003",
+    "diemToan": 9,
+    "diemLy": 9,
+    "diemHoa": 6,
+    "diemAnh": 2,
+    "lop": "IT-03"
+}
+]
